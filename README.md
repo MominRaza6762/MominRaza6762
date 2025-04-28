@@ -26,10 +26,3 @@ I'm open to **freelance projects**, **remote jobs**, and **collaborative tech op
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momin-raza-594b70254/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mominraza354@gmail.com)
-
----
-
-## 📈 GitHub Stats
-
-![Momin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MominRaza6762&show_icons=true&theme=radical)
-
