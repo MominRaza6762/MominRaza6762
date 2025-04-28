@@ -13,7 +13,7 @@ I'm open to **freelance projects**, **remote jobs**, and **collaborative tech op
 
 ## 🛠️ Skills
 
-- **Frontend**: React.js, Redux, HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
 - **Real-Time Communication**: Socket.IO, WebRTC
