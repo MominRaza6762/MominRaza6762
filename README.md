@@ -17,7 +17,7 @@ I'm open to **freelance projects**, **remote jobs**, and **collaborative tech op
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
 - **Real-Time Communication**: Socket.IO, WebRTC
-- **APIs**: RESTful APIs, Authentication Systems
+- **APIs**: REST APIs, Authentication Systems
 - **Tools**: Git, GitHub, Thunde Client, VS Code
 
 ---
